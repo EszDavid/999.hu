@@ -1,0 +1,97 @@
+.header{
+	position: absolute;
+	left: 190px;
+	text-align: center;
+	height: 150px;
+	width: 900px;
+	margin: 0 auto;
+	display: block;
+	background-image: url("Kepek/headerhatter.jpg");
+	color:Black;
+	font-size: 120%;
+	font-weight: 200;
+}
+h1{
+	position: relative;
+	top: 35px;
+
+}
+.menu{
+	position: absolute;
+	top: 158px;
+	left: 190px;
+	height: 40px;
+	width: 900px;
+	margin: 0 auto;
+	background-color: white;
+	font-size: 120%;
+	 overflow: hidden;
+	 float: center;
+}
+.menu:link{
+	text-decoration: none-underline;
+
+}
+Body{
+	background-image:url("Kepek/oldalhatter.jpg");
+}
+ul{
+	list-style-type: none;
+	text-align: center;
+}
+ul li 
+{
+	display: inline;
+	margin-right: 60px;
+
+	font-size: 120%;
+	text-decoration: none;
+}
+.content{
+	position: absolute;
+	top: 198px;
+	left: 190px;
+	padding-top: 20px white;
+	width: 900px;
+	height: 710px;
+	background-color: white;
+	margin: 0 auto;
+	font-family: "Courier New", monospace;
+	font-size: 110%;
+}
+h2{
+	text-align: center;
+	font-size: 200%;
+	font-weight: 200;
+}
+h3{
+	font-size: 120%;
+	margin-left: 20px;
+}
+hr{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.footer{
+	position: absolute;
+	bottom: 0px;
+	left: 200px
+
+}
+table{
+	margin: 0 auto;
+	position: relative;
+	left: 25px;
+}
+td{
+	padding-right: 55px;
+}
+td:hover{
+	font-size: 120%;
+}
+
+
